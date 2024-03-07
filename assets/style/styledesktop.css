@@ -1,0 +1,27 @@
+.imagen img{
+    width: 75%;
+    margin:auto;
+    border-radius: 50%;
+}
+button{
+    padding: 15px;
+    width: 100%;
+    margin: 8px;
+    border-radius: 8px;
+    background-color: var(--Grey);
+    border: none;
+    color: var(--White);
+    font-size:17px;
+    font-family: "inter",Dense;
+    font-weight: 700;
+}
+.nombre{
+    width: 100%;
+    font-family:"inter",Dense;
+    color:var(--White);
+    text-align:center;
+    font-size: 40px;
+    font-weight:500;
+    height: 10px;
+
+}
